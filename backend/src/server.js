@@ -5,7 +5,7 @@ const cors = require('cors') //module to allow any application to access the bac
 const routes = require('./routes')
 const server = express()
 
-mongoose.connect('mongodb+srv://omnistack:omnistack@cluster0-2heqv.mongodb.net/test?retryWrites=true&w=majority', {
+mongoose.connect('SERVER_STRING', {
     useNewUrlParser: true
 })
 
