@@ -12,7 +12,7 @@
     "react-native": "0.60.4",
     "react-native-gesture-handler": "^1.3.0",
     "react-native-navigation": "^2.26.5",
-    "react-native-reanimated": "^1.2.0"
+    "react-native-reanimated": "^2.10.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
